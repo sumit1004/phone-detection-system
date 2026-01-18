@@ -1,4 +1,4 @@
-AI-Based Mobile Phone Detection System with Audio Alert
+AI-Based Mobile Phone Detection System with Audio Alert.
 
 An AI-powered real-time system that keeps the camera active, detects a mobile phone using computer vision, and plays a continuous warning sound until the phone is removed from the camera frame.
 
